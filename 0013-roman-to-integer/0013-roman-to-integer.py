@@ -9,18 +9,10 @@ class Solution:
             'D' : 500,
             'M' : 1000
         }
-        num = 0
-        temp = 0
+        num = roman[s[0]]
         s = [i for i in s]
-        for i in range(len(s)):
-            if i > 0:
-                if roman[s[i-1]] == roman[s[i]]:
-                    temp += 1
-                else:
-                    temp = 0
-                if roman[s[i-1]] < roman[s[i]]:
-                    num -= 2*roman[s[i-1]] - temp
-                    print(f'{s[i-1]}{s[i]} = {roman[s[i]]}-{roman[s[i-1]]} = {roman[s[i]]-roman[s[i-1]]}')
-            num += roman[s[i]]
-            print(f'Total : {num}')
+        for i in range(1, len(s)):
+            if roman[s[i-1]] < roman[s[i]]:
+                num -= 2*roman[s[i-1]]
+            num += roman[s[i]]      
         return num
