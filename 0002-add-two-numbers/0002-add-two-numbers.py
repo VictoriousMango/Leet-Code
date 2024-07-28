@@ -7,14 +7,13 @@ class ListNode:
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
         carry = 0
-        head = ListNode(l1.val + l2.val)
+        head = ListNode()
         cur = head
-        # cur.val = 
+        cur.val = l1.val + l2.val
         while l1 or l2 or carry:
             v1 = l1.val if l1 else 0
             v2 = l2.val if l2 else 0
             cur.next = ListNode((v1+v2+carry)%10)
-            print((v1+v2+carry)%10)
             cur = cur.next
             # print(f'{v1}, {v2}, {carry}')
             carry = 1 if v1+v2+carry >= 10 else 0
