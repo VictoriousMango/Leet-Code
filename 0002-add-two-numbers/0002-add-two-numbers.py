@@ -15,9 +15,7 @@ class Solution:
             v2 = l2.val if l2 else 0
             cur.next = ListNode((v1+v2+carry)%10)
             cur = cur.next
-            # print(f'{v1}, {v2}, {carry}')
-            carry = 1 if v1+v2+carry >= 10 else 0
-            # print(carry)
+            carry = (v1+v2+carry)//10
             l1 = l1.next if l1 else None
             l2 = l2.next if l2 else None
         return head.next
