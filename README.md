@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VictoriousMango/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/VictoriousMango/Leet-Code/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VictoriousMango/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/VictoriousMango/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/VictoriousMango/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/VictoriousMango/Leet-Code/tree/master/0020-valid-parentheses) |
@@ -40,4 +42,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/VictoriousMango/Leet-Code/tree/master/1894-merge-strings-alternately) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VictoriousMango/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
