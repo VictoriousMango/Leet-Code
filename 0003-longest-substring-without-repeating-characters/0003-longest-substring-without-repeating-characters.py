@@ -5,6 +5,7 @@ class Solution:
         subString = dict()
         subStringCount = 1
         subString[subStringCount] = ''
+        max_len = 0
         for index in range(len(s)):
             for i in s[index:]:
                 if subStringCount not in subString:
@@ -12,8 +13,9 @@ class Solution:
                 if i not in subString[subStringCount]:
                     subString[subStringCount] += i
                 else:
+                    max_len = max([max_len, len(subString[subStringCount])])
                     subStringCount += 1
                     break
                     # subString[subStringCount] = i
         print(subString)
-        return max([len(subString[i]) for i in subString])
+        return max_len
