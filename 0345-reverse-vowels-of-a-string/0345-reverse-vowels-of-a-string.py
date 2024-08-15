@@ -6,9 +6,9 @@ class Solution:
         V_regex = ['a', 'e', 'i', 'o', 'u']
         count = 0
         while ptr1 < ptr2:
-            print(f'{count} : {s[ptr1]}, {s[ptr1] in V_regex} - {s[ptr2]}, {s[ptr2] in V_regex}')
+            # print(f'{count} : {s[ptr1]}, {s[ptr1] in V_regex} - {s[ptr2]}, {s[ptr2] in V_regex}')
             if s[ptr1].lower() in V_regex and s[ptr2].lower() in V_regex:
-                print("Swapping required")
+                # print("Swapping required")
                 s[ptr1], s[ptr2] = s[ptr2], s[ptr1]
                 if ptr1 < len(s) and ptr2 > 0:
                     ptr1 +=1
@@ -19,5 +19,5 @@ class Solution:
             if s[ptr2].lower() not in V_regex and ptr2 > 0:
                 ptr2 -= 1
             count +=1
-        print(s)
+        # print(s)
         return ''.join(s)
