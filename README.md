@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/VictoriousMango/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/VictoriousMango/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/VictoriousMango/Leet-Code/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VictoriousMango/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/VictoriousMango/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/VictoriousMango/Leet-Code/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/VictoriousMango/Leet-Code/tree/master/0303-range-sum-query-immutable) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VictoriousMango/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/VictoriousMango/Leet-Code/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/VictoriousMango/Leet-Code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Binary Search
