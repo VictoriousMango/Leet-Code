@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/VictoriousMango/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/VictoriousMango/Leet-Code/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VictoriousMango/Leet-Code/tree/master/1146-greatest-common-divisor-of-strings) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/VictoriousMango/Leet-Code/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## String
 |  |
 | ------- |
@@ -102,4 +103,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/VictoriousMango/Leet-Code/tree/master/0268-missing-number) |
+## Tree
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/VictoriousMango/Leet-Code/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/VictoriousMango/Leet-Code/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 <!---LeetCode Topics End-->
