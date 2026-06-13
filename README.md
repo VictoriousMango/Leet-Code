@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/VictoriousMango/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VictoriousMango/Leet-Code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/VictoriousMango/Leet-Code/tree/master/1894-merge-strings-alternately) |
+| [3838-weighted-word-mapping](https://github.com/VictoriousMango/Leet-Code/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/VictoriousMango/Leet-Code/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/VictoriousMango/Leet-Code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/VictoriousMango/Leet-Code/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3838-weighted-word-mapping](https://github.com/VictoriousMango/Leet-Code/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,4 +122,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/VictoriousMango/Leet-Code/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Simulation
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/VictoriousMango/Leet-Code/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
