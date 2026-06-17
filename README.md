@@ -135,4 +135,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3612-process-string-with-special-operations-i](https://github.com/VictoriousMango/Leet-Code/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/VictoriousMango/Leet-Code/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/VictoriousMango/Leet-Code/tree/master/3838-weighted-word-mapping) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/VictoriousMango/Leet-Code/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
