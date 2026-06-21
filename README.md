@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/VictoriousMango/Leet-Code/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/VictoriousMango/Leet-Code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/VictoriousMango/Leet-Code/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/VictoriousMango/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/VictoriousMango/Leet-Code/tree/master/1840-maximum-building-height) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/VictoriousMango/Leet-Code/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3838-weighted-word-mapping](https://github.com/VictoriousMango/Leet-Code/tree/master/3838-weighted-word-mapping) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/VictoriousMango/Leet-Code/tree/master/0605-can-place-flowers) |
+| [1833-maximum-ice-cream-bars](https://github.com/VictoriousMango/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0217-contains-duplicate](https://github.com/VictoriousMango/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/VictoriousMango/Leet-Code/tree/master/0268-missing-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/VictoriousMango/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/VictoriousMango/Leet-Code/tree/master/1840-maximum-building-height) |
 ## Bit Manipulation
 |  |
@@ -148,4 +151,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0595-big-countries](https://github.com/VictoriousMango/Leet-Code/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/VictoriousMango/Leet-Code/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/VictoriousMango/Leet-Code/tree/master/1683-invalid-tweets) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/VictoriousMango/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
