@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/VictoriousMango/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/VictoriousMango/Leet-Code/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VictoriousMango/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1189-maximum-number-of-balloons](https://github.com/VictoriousMango/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 ## Math
 |  |
 | ------- |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/VictoriousMango/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VictoriousMango/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VictoriousMango/Leet-Code/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/VictoriousMango/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1894-merge-strings-alternately](https://github.com/VictoriousMango/Leet-Code/tree/master/1894-merge-strings-alternately) |
 | [3612-process-string-with-special-operations-i](https://github.com/VictoriousMango/Leet-Code/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/VictoriousMango/Leet-Code/tree/master/3614-process-string-with-special-operations-ii) |
@@ -155,5 +157,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/VictoriousMango/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/VictoriousMango/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
