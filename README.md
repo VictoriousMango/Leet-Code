@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/VictoriousMango/Leet-Code/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VictoriousMango/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/VictoriousMango/Leet-Code/tree/master/0605-can-place-flowers) |
+| [1301-number-of-paths-with-max-score](https://github.com/VictoriousMango/Leet-Code/tree/master/1301-number-of-paths-with-max-score) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/VictoriousMango/Leet-Code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/VictoriousMango/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/VictoriousMango/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/VictoriousMango/Leet-Code/tree/master/1301-number-of-paths-with-max-score) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/VictoriousMango/Leet-Code/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/VictoriousMango/Leet-Code/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/VictoriousMango/Leet-Code/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/VictoriousMango/Leet-Code/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VictoriousMango/Leet-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VictoriousMango/Leet-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
