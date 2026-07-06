@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/VictoriousMango/Leet-Code/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VictoriousMango/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/VictoriousMango/Leet-Code/tree/master/0605-can-place-flowers) |
+| [1288-remove-covered-intervals](https://github.com/VictoriousMango/Leet-Code/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/VictoriousMango/Leet-Code/tree/master/1301-number-of-paths-with-max-score) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/VictoriousMango/Leet-Code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/VictoriousMango/Leet-Code/tree/master/1732-find-the-highest-altitude) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0217-contains-duplicate](https://github.com/VictoriousMango/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/VictoriousMango/Leet-Code/tree/master/0268-missing-number) |
+| [1288-remove-covered-intervals](https://github.com/VictoriousMango/Leet-Code/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/VictoriousMango/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/VictoriousMango/Leet-Code/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VictoriousMango/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
